@@ -1,6 +1,6 @@
 
 /*
-* created by Rui Santos, http://randomnerdtutorials.com
+
 *
 * Complete Guide for Ultrasonic Sensor HC-SR04
 *
